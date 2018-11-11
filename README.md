@@ -4,8 +4,10 @@ The app will take in orders from customers and deplete stock from our store's in
 [Instrusction]
 
 1. Type "node bamazonCustomer.js" then hit enter key.
-![image1](https://github.com/pikopiri127/node_mysql/images/1.png)
+
 2. You can see product list and enter the Product ID you would like to buy from the list then hit enter key.
+
+![image](https://github.com/pikopiri127/node_mysql/blob/master/images/1.png)
 
 3. Enter quantity of the product you would like to buy then hit enter key.
 
